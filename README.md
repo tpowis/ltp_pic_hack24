@@ -58,5 +58,5 @@ A batch script titled `btrav` is included in the top directory and should submit
    6. Implement sub-functions to clean up the code and improve readability
 1. Modify the Boris algorithm (`PushParticles` in `particles.c`) to be able to utilize TF32 tensor cores.
 2. Ideas for implementing binary collision algorithms?
-3. Ideas fo mized fluid/kinetic particle methods?
+3. Ideas for mixed fluid/kinetic particle methods?
 
